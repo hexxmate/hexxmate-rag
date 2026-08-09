@@ -1,0 +1,17 @@
+# Local vector database — rebuild from chunks/
+db/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
