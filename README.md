@@ -35,6 +35,8 @@ should be local since it doesn't need any advanced models
 
 ### Schema design
 
+Still Working on it ...
+
 ### What to study before starting
 
 ***
