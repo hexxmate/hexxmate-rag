@@ -39,6 +39,8 @@ Still Working on it ...
 
 ### What to study before starting
 
+- Full RAG ingestion pipeline for Agentic AI freecodecamp course is recommended
+- link : https://www.youtube.com/watch?v=mHxLXzYjQRE
 Still Working on it ...
 
 ***
