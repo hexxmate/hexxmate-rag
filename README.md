@@ -29,15 +29,16 @@ bounty-rag/
 ```
 ***
 
-## Embedding model
+### Embedding model
 
-- working on it ... 
+should be local since it doesn't need any advanced models
 
-## Schema design
+### Schema design
 
-- working on it ... 
+### What to study before starting
 
-## What to study before starting
+***
+
 
 
 
