@@ -39,6 +39,5 @@ bounty-rag/
 
 ## What to study before starting
 
-- working on it ... 
 
 
